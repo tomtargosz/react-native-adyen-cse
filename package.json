@@ -1,0 +1,33 @@
+{
+  "name": "react-native-adyen-cse",
+  "title": "React Native Adyen Cse",
+  "version": "1.0.0",
+  "description": "Allows client side encryption of credit card details via React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomtargosz/react-native-adyen-cse.git",
+    "baseUrl": "https://github.com/tomtargosz/react-native-adyen-cse"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Tom Targosz",
+    "email": "tom@clearcover.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
